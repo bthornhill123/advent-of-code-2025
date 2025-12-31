@@ -7,7 +7,8 @@
     "start:day1": "ts-node src/day1/index.ts",
     "start:day2": "ts-node src/day2/index.ts",
     "start:day3": "ts-node src/day3/index.ts",
-    "start:day4": "ts-node src/day4/index.ts"
+    "start:day4": "ts-node src/day4/index.ts",
+    "start:day5": "ts-node src/day5/index.ts"
   },
   "keywords": [],
   "author": "",
